@@ -64,7 +64,7 @@ A task or story is “done” when the following are all true:
 * The code to complete the task or implement the feature has been reviewed and approved by the other pair of developers
 * The [Product Owner](https://www.agilealliance.org/glossary/product-owner/) (i.e. Andrew or 1 of the mentors) has accepted the work as satisfactorily meeting the requirements
 
-The “backlog” (the collection of epics, stories, and tasks) represents the work needed to complete the project. At the point when all of the stories and tasks are done, we should have a working app!
+The “backlog” (the collection of stories) represents the work needed to complete the project. At the point when all of the stories are done, we should have a working app!
 
 ### Development process
 Work will be done on feature branches in git. Branches should be named in the following way:
@@ -75,7 +75,7 @@ For example:
 
 	stc-an-connect-to-firestore
 
-The hypothetical example above has Stacie Taylor-Cima and Alejandro Nanez working together on connecting the app to Firestore. Each of them will be able to work on the feature branch independently, but only one of them will submit the merge request when the work is ready (described in more detail below).
+The hypothetical example above has Stacie Taylor-Cima and Alejandro Ñáñez working together on connecting the app to Firestore. Each of them will be able to work on the feature branch independently, but only one of them will submit the merge request when the work is ready (described in more detail below).
 
 When you’re ready to start work on a feature, one person in your pair should create a local branch following the naming convention above, then push the branch to GitHub so your pair buddy can pull it down to their local environment. The following steps should work to do just this:
 
