@@ -4,7 +4,7 @@
 ### Overview
 The goal of this project is to work together to build a “smart” shopping list that learns your shopping habits over time, putting items you are most likely to need to buy in the near future at the top.
 
-This project is based on [iNeedToBuy.xyz](https://app.ineedtobuy.xyz/), a mobile web app I built for my own use last year. I’ve invited you to the [private GitHub repo for that site](https://github.com/segdeha/ineedtobuy.xyz) in case you get stuck and want a hint!
+This project is based on [iNeedToBuy.xyz](https://app.ineedtobuy.xyz/), a mobile web app I built for my own use last year. You’re welcome to look at the [GitHub repo for that site](https://github.com/segdeha/ineedtobuy.xyz) if you get stuck and want a hint!
 
 ### Locations for things
 * Site: {link to cohort live site}
@@ -53,17 +53,16 @@ Pairings will go as follows:
 2. {Name} & {Name}
 
 ### How to know what to do
-The project is organized in GitHub as a set of epics, each broken down into various tasks and/or stories. You can find the epics, tasks, and stories in the [Issues section of the project]({link to cohort repo issues}) on GitHub.
+The project is organized in GitHub as a set of [user stories](https://www.mountaingoatsoftware.com/agile/user-stories), each with a description of the desired functionality as well as [acceptance criteria](https://www.leadingagile.com/2014/09/acceptance-criteria/) (AC) that describe how you know whether the task or story is complete. You can find the stories on [the project board]({link to the cohort repo project board}) on GitHub.
 
-An “epic” describes the work needed to implement a high-level feature or set of related features. Each of the epics contains some number of either tasks or [user stories](https://www.mountaingoatsoftware.com/agile/user-stories). Each of these include [acceptance criteria](https://www.leadingagile.com/2014/09/acceptance-criteria/) (AC) that describe how you know whether the task or story is complete.
 
 A task or story is “done” when the following are all true:
 
 * The AC have been met
 * Tests have been written to validate the “[happy path](https://en.wikipedia.org/wiki/Happy_path)”
-* In the case of a UI feature, it has been reviewed for accessibility
+* In the case of a UI feature, it has been reviewed for [accessibility](https://accessibilityinsights.io/)
 * The code to complete the task or implement the feature has been reviewed and approved by the other pair of developers
-* The [Product Owner](https://www.agilealliance.org/glossary/product-owner/) (i.e. Andrew or 1 of the mentors) has accepted the work as adequately meeting the requirements
+* The [Product Owner](https://www.agilealliance.org/glossary/product-owner/) (i.e. Andrew or 1 of the mentors) has accepted the work as satisfactorily meeting the requirements
 
 The “backlog” (the collection of epics, stories, and tasks) represents the work needed to complete the project. At the point when all of the stories and tasks are done, we should have a working app!
 
@@ -83,13 +82,13 @@ When you’re ready to start work on a feature, one person in your pair should c
 	git checkout -b an-example-feature-branch
 	git push -u origin an-example-feature-branch
 
-When you and your pair partner have working code that you believe is ready to be merged to master and deployed, you will follow the following steps:
+When you and your pair partner have working code that you believe is ready to be merged to `master` and deployed, you will follow the following steps:
 
-1. Create a “[pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)”.
-2. Let the other pair team know in Slack that you have a new merge request for them to review.
+1. Create a “[pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)” (PR).
+2. Notify the other pair team in Slack that you have a new PR for them to review.
 3. Incorporate feedback from the other pair team into your work until both you and they are satisfied the code is ready to be merged.
-4. Request that Andrew or one of the mentors review the merge request for final approval.
-5. Once approved, merge the merge request into master. (Your code will be built and deployed to production automatically thanks to [Netlify](https://www.netlify.com/).
+4. Request that Andrew or one of the mentors review the PR for final approval.
+5. Once approved, merge the PR into `master`. (Your code will be built and deployed to production automatically thanks to [Netlify](https://www.netlify.com/).
 6. Check your work on the [production site]({link to cohort live site}).
 7. Celebrate! 🥳
 
