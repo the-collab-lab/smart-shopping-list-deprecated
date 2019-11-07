@@ -1,4 +1,4 @@
-# Overview
+# Overviews
 
 The goal of this project is to create a “smart” shopping list app that learns your buying habits and helps you remember what you’re likely to need to buy on your next trip to the store.
 
