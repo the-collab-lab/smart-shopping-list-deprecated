@@ -10,8 +10,8 @@ The app will work in many of the same ways as [iNeedToBuy.xyz](https://app.ineed
 
 ### Code formatting
 
-We're using [Prettier](https://prettier.io/) to format our code before every commit, this is done automatically and will not affect the way you work!
-If you're curious, here's the PR that adds this feature https://github.com/the-collab-lab/smart-shopping-list/pull/30
+We’re using [Prettier](https://prettier.io/) to format our code before every commit, this is done automatically and will not affect the way you work!
+If you’re curious, here’s the PR that adds this feature https://github.com/the-collab-lab/smart-shopping-list/pull/30
 
 ## ↓↓↓ create-react-app boilerplate ↓↓↓
 
