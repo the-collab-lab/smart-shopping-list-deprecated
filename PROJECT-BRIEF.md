@@ -62,9 +62,23 @@ There is no one “right” way to pair program, but in general, you will meet w
 
 ### Weekly Sync
 
-Each week, we’ll get on a 45 minute Zoom call. The call will always start with a quick demo of the previous week’s work from each pair. This is a common practice on most software teams and also lets you practice talking about your work, which can come in handy in a job interview setting!
+Each week, we’ll get on a 1-hour Zoom call. The call will always start with a *quick demo of the previous week’s work* from each pair. This is a common practice on most software teams and also lets you practice talking about your work, which can come in handy in a job interview setting!
 
-On odd-numbered weeks, we’ll use the rest of the time to cover a learning topic. On even-numbered weeks, we’ll do a short retrospective of the previous 2 weeks. In the retros, we’ll share appreciations of our teammates as well as talk about what went well from a process perspective and what we could do to improve how we’re working together.
+The way we use the rest of the time will vary based on whether it’s an even- or odd-numbered week, as follows:
+
+#### Odd-numbered weeks
+
+1. Demos/discussion (15 minutes)
+2. Learning module (30 minutes)
+3. Mentors meet with pairs to talk through approach to upcoming week’s work (15 minutes)
+
+#### Even-numbered weeks
+
+1. Demos/discussion (15 minutes)
+2. Retrospective (30 minutes)
+3. Mentors meet with pairs to talk through approach to upcoming week’s work (15 minutes)
+
+In our retros, we will share appreciations of our teammates as well as talk about what went well from a process perspective and what we could do to improve how we’re working together.
 
 ### How to know what to do
 The project is organized in GitHub as a set of [user stories](https://www.mountaingoatsoftware.com/agile/user-stories), each with a description of the desired functionality as well as [acceptance criteria](https://www.leadingagile.com/2014/09/acceptance-criteria/) (AC) that describe how you know whether the task or story is complete. You can find the stories on [the project board]({link to the cohort repo project board}) on GitHub.
