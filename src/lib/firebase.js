@@ -15,6 +15,6 @@ var firebaseConfig = {
   appId: { TCL_X_APP_ID },
 };
 
-let fb = firebase.initializeApp(config);
+let fb = firebase.initializeApp(firebaseConfig);
 
 export { fb };
