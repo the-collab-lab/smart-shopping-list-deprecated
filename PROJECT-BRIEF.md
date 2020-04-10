@@ -80,6 +80,18 @@ The way we use the rest of the time will vary based on whether it’s an even- o
 
 In our retros, we will share appreciations of our teammates as well as talk about what went well from a process perspective and what we could do to improve how we’re working together.
 
+### Weekly Cadence
+
+A week sounds like a long time in some ways, but part of working on a team is accounting for coordination costs. Let’s walk back our goal of demoing from the production URL on Sundays to see when different things need to happen.
+
+* Sunday — Demo on production!
+* Saturday — Respond to mentor feedback on PRs
+* Friday — Respond to/give peer feedback on PRs and ping mentors for feedback
+* Thursday — Complete story and ask for peer feedback
+* Monday, Tuesday, Wednesday — Work out approach, research if needed, pair program
+
+Having watched many cohorts before yours, our advice is to front-load the work as much as possible in the first couple of days of each week. Some of the stories are trickier than they appear on the surface!
+
 ### How to know what to do
 The project is organized in GitHub as a set of [user stories](https://www.mountaingoatsoftware.com/agile/user-stories), each with a description of the desired functionality as well as [acceptance criteria](https://www.leadingagile.com/2014/09/acceptance-criteria/) (AC) that describe how you know whether the task or story is complete. You can find the stories on [the project board]({link to the cohort repo project board}) on GitHub.
 
@@ -95,7 +107,9 @@ The “backlog” (the collection of stories) represents the work needed to comp
 
 ### Coordination & communication
 
-At the start of each week, each pair will create a page on [the project wiki](https://github.com/the-collab-lab/tcl-2-smart-shopping-list/wiki) where you can coordinate your approach to solving your problem for the week, surface blockers and learnings, etc. One of the benefits of this is that the people reviewing your work can better understand your process for how you got to your solution.
+It’s super helpful both to yourself and the mentors for you to document your work. This can prevent you from losing track of details or decisions you make with your pair buddy. It also allows mentors to catch up on your progress when you ask for help.
+
+Some past cohorts have found success creating [wiki](https://github.com/the-collab-lab/tcl-6-smart-shopping-list/wiki) pages at the start of each week. Others have taken the approach of creating a [draft PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests#draft-pull-requests) as one of their first steps in getting started with the work. An advantage of this approach is you can have a conversation about the work right alongside the code. This, coupled with discussions about approach in the issue itself, is nice way of documenting your progress as you go.
 
 ### Development process
 Work will be done on feature branches in git. Branches should be named in the following way:
