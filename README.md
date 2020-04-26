@@ -64,7 +64,7 @@ For additional details on how your cohort will operate, please check out the [pr
 ![screenshot of the react project](https://cdn.zappy.app/30d5733fe9abc6d74d3adde2d046c101.png)
 
 
-🎉 You did it! You’re ready to start contributing. Don’t forget to complete the first task by adding your name to CONTRIBUTORS.md from your local enviroment, committing those changes, and creating a pull request.
+🎉 You did it! You’re ready to start contributing. Don’t forget to complete the first task by adding your name to [CONTRIBUTORS.md](CONTRIBUTORS.md) from your local enviroment, committing those changes, and creating a pull request.
 
 <hr>
 
