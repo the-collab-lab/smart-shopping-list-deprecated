@@ -1,10 +1,10 @@
 # Overview
 
-## What is this project? 
+## What is this project?
 
 The goal of this project is to collaborate with your Collab Lab team to create a “smart” shopping list app that learns your buying habits and helps you remember what you’re likely to need to buy on your next trip to the store.
 
-## How does it work? 
+## How does it work?
 
 As a user, you will enter items (e.g., “Greek yogurt” or “Paper towels”) into your list. Each time you buy the item, you mark it as purchased in the list. Over time, the app comes to understand the intervals at which you buy different items. If an item is likely to be due to be bought soon, it rises to the top of the shopping list.
 
@@ -12,22 +12,22 @@ As a user, you will enter items (e.g., “Greek yogurt” or “Paper towels”)
 
 The app will work in many of the same ways as [iNeedToBuy.xyz](https://app.ineedtobuy.xyz/) (on which our project is based) with the exception that we will not be implementing barcode scanning (that feature would add a lot of scope to the project and in my experience wasn’t all that useful).
 
-📺  [Check out a video demo of the example app here!](https://www.youtube.com/watch?v=mwj74mE9s64) 
+📺  [Check out a video demo of the example app here!](https://www.youtube.com/watch?v=mwj74mE9s64)
 
 ## More details for contributors
 
-🎉  If you're a Collab Lab participant, first of all: WELCOME! We're so excited to work with you and collaborate on something amazing. 
+🎉  If you’re a Collab Lab participant, first of all: WELCOME! We’re so excited to work with you and collaborate on something amazing.
 
-### Make your first contribution! 
+### Make your first contribution!
 
-The first thing you will want to do before your kick-off call is make your first contribution to this repo -- this will help make sure you're ready to go on day one. 
+The first thing you will want to do before your kick-off call is make your first contribution to this repo. This will help make sure you’re ready to go on day one.
 
-- Get this project set up locally by following the instructions [below in this README](#project-setup). 
+- Get this project set up locally by following the instructions [below in this README](#project-setup).
 - Add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) file
-  - Be sure to do this from your local environment and not from Github in your browser. The purpose (aside from highlighting our amazing team) is to make sure you're local environment is all set up and ready to go come day 1!
+  - Be sure to do this from your local environment and not from Github in your browser. The purpose (aside from highlighting our amazing team) is to make sure you’re local environment is all set up and ready to go come day 1!
   - Commit to the `master` branch and push it up to the remote repo. (Over the next 8 weeks, we will rely on feature branches as we collaborate on the project, but for this task committing to master will do just fine.)
 
-### What else should contributors know? 
+### What else should contributors know?
 For additional details on how your cohort will operate, please check out the [project brief](PROJECT-BRIEF.md).
 
 <hr>
@@ -41,36 +41,36 @@ For additional details on how your cohort will operate, please check out the [pr
 
 ## Clone project locally
 
-* On Github, navigate to the repo for your cohort's project (you're probably there right now, click the "Code" tab at the top). 
+* On Github, navigate to the repo for your cohort’s project (you’re probably there right now, click the "Code" tab at the top).
 ![screenshot of "Code" tab on Github](https://cdn.zappy.app/7751e7784910a8c64b47106e24fd3dd1.png)
-* Click the green "Clone or download" button and copy the web URL. 
+* Click the green "Clone or download" button and copy the web URL.
 ![screenshot of how to copy the web URL for a Github repo](https://cdn.zappy.app/c5fa2c9e72f6cfbd15fb27f4ed2dc898.png)
-* From your terminal, `cd` into the directory where you want this project to live. 
+* From your terminal, `cd` into the directory where you want this project to live.
 ![screenshot of how to navigate folders in terminal](https://cdn.zappy.app/8a4302d1262bc08fa61e8cd2f3b7c3b8.png)
-* Once you're in the directory, type `git clone` followed by the web URL you just copied to your clipboard from Github. 
+* Once you’re in the directory, type `git clone` followed by the web URL you just copied to your clipboard from Github.
 ![screenshot of how to git clone](https://cdn.zappy.app/7a9553b7cc4949beecd8db6f32e631a4.png)
-* Then navigate into the project by typing `cd` followed by the project directory's name. 
+* Then navigate into the project by typing `cd` followed by the project directory’s name.
 ![screenshot of how to cd into the project directory](https://cdn.zappy.app/62e50c2658f91f01b22383d04c5a5e3a.png)
 
 ## Update dependancies
 
-* Once you have the project locally and you and in the project directory, you'll want to update all the project's dependancies. To do so, type the following into your terminal: `npm update`
+* Once you have the project locally and you and in the project directory, you’ll want to update all the project’s dependancies. To do so, type the following into your terminal: `npm update`
 ![screenshot of npm update in the terminal](https://cdn.zappy.app/b7619c19e38166329334430335746d3b.png)
-* Maybe take a sip of coffee or check in on Twitter, this could take a minute -- don't worry. 
+* Maybe take a sip of coffee or check in on Twitter, this could take a minute -- don’t worry.
 
 ## Access the project in your browser
 
-* After you've cloned the project locally and updated the dependancies, you should be able to see the project at `localhost:3000`. 
+* After you’ve cloned the project locally and updated the dependancies, you should be able to see the project at `localhost:3000`.
 ![screenshot of the react project](https://cdn.zappy.app/30d5733fe9abc6d74d3adde2d046c101.png)
 
 
-🎉 You did it! You're ready to start contributing. Don't forget to complete the first task by adding your name to CONTRIBUTORS.md from your local enviroment, committing those changes, and creating a pull request. 
+🎉 You did it! You’re ready to start contributing. Don’t forget to complete the first task by adding your name to CONTRIBUTORS.md from your local enviroment, committing those changes, and creating a pull request.
 
-<hr> 
+<hr>
 
 # Boilerplate information
 
-Everything in this section is automatically generated when you create a new app using `create-react-app`. These details can be really helpful in learning how to launch and manage your React app with `npm`. 
+Everything in this section is automatically generated when you create a new app using `create-react-app`. These details can be really helpful in learning how to launch and manage your React app with `npm`.
 
 ## ↓↓↓ create-react-app boilerplate ↓↓↓
 
