@@ -24,7 +24,7 @@ The first thing you will want to do before your kick-off call is make your first
 
 - Get this project set up locally by following the instructions [below in this README](#project-setup).
 - Add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) file
-  - Be sure to do this from your local environment and not from Github in your browser. The purpose (aside from highlighting our amazing team) is to make sure you’re local environment is all set up and ready to go come day 1!
+  - Be sure to do this from your local environment and not from GitHub in your browser. The purpose (aside from highlighting our amazing team) is to make sure you’re local environment is all set up and ready to go come day 1!
   - Commit to the `master` branch and push it up to the remote repo. (Over the next 8 weeks, we will rely on feature branches as we collaborate on the project, but for this task committing to master will do just fine.)
 
 ### What else should contributors know?
@@ -41,13 +41,13 @@ For additional details on how your cohort will operate, please check out the [pr
 
 ## Clone project locally
 
-* On Github, navigate to the repo for your cohort’s project (you’re probably there right now, click the "Code" tab at the top).
-![screenshot of "Code" tab on Github](https://cdn.zappy.app/7751e7784910a8c64b47106e24fd3dd1.png)
+* On GitHub, navigate to the repo for your cohort’s project (you’re probably there right now, click the "Code" tab at the top).
+![screenshot of "Code" tab on GitHub](https://cdn.zappy.app/7751e7784910a8c64b47106e24fd3dd1.png)
 * Click the green "Clone or download" button and copy the web URL.
-![screenshot of how to copy the web URL for a Github repo](https://cdn.zappy.app/c5fa2c9e72f6cfbd15fb27f4ed2dc898.png)
+![screenshot of how to copy the web URL for a GitHub repo](https://cdn.zappy.app/c5fa2c9e72f6cfbd15fb27f4ed2dc898.png)
 * From your terminal, `cd` into the directory where you want this project to live.
 ![screenshot of how to navigate folders in terminal](https://cdn.zappy.app/8a4302d1262bc08fa61e8cd2f3b7c3b8.png)
-* Once you’re in the directory, type `git clone` followed by the web URL you just copied to your clipboard from Github.
+* Once you’re in the directory, type `git clone` followed by the web URL you just copied to your clipboard from GitHub.
 ![screenshot of how to git clone](https://cdn.zappy.app/7a9553b7cc4949beecd8db6f32e631a4.png)
 * Then navigate into the project by typing `cd` followed by the project directory’s name.
 ![screenshot of how to cd into the project directory](https://cdn.zappy.app/62e50c2658f91f01b22383d04c5a5e3a.png)
