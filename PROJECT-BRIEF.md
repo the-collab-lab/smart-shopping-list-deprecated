@@ -9,7 +9,7 @@ This project is based on [iNeedToBuy.xyz](https://app.ineedtobuy.xyz/), a mobile
 ### Locations for things
 * Site: {link to cohort live site}
 * Repo: {link to cohort repo}
-* Clone URL: {clone URL}
+* Clone URL: `{clone URL}`
 * Issue list: {link to cohort repo issues}
 * Database: {link to cohort firebase database}
 
@@ -84,11 +84,11 @@ In our retros, we will share appreciations of our teammates as well as talk abou
 
 A week sounds like a long time in some ways, but part of working on a team is accounting for coordination costs. Let’s walk back our goal of demoing from the production URL on Sundays to see when different things need to happen.
 
-* Sunday — Demo on production!
-* Saturday — Respond to mentor feedback on PRs
-* Friday — Respond to/give peer feedback on PRs and ping mentors for feedback
-* Thursday — Complete story and ask for peer feedback
 * Monday, Tuesday, Wednesday — Work out approach, research if needed, pair program
+* Thursday — Complete story and ask for peer feedback
+* Friday — Respond to/give peer feedback on PRs and ping mentors for feedback
+* Saturday — Respond to mentor feedback on PRs
+* Sunday — Demo on production!
 
 Having watched many cohorts before yours, our advice is to front-load the work as much as possible in the first couple of days of each week. Some of the stories are trickier than they appear on the surface!
 
@@ -101,7 +101,7 @@ A task or story is “done” when the following are all true:
 * Tests have been written to validate the “[happy path](https://en.wikipedia.org/wiki/Happy_path)”
 * In the case of a UI feature, it has been reviewed for [accessibility](https://accessibilityinsights.io/)
 * The code to complete the task or implement the feature has been reviewed and approved by the other pair of developers
-* The [Product Owner](https://www.agilealliance.org/glossary/product-owner/) (i.e. Andrew or 1 of the mentors) has accepted the work as satisfactorily meeting the requirements
+* The [Product Owner](https://www.agilealliance.org/glossary/product-owner/) (i.e. one of the mentors) has accepted the work as satisfactorily meeting the requirements
 
 The “backlog” (the collection of stories) represents the work needed to complete the project. At the point when all of the stories are done, we should have a working app!
 
@@ -132,7 +132,7 @@ When you and your pair partner have working code that you believe is ready to be
 1. Create a “[pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)” (PR).
 2. Notify the other pair team in Slack that you have a new PR for them to review.
 3. Incorporate feedback from the other pair team into your work until both you and they are satisfied the code is ready to be merged.
-4. Request that Andrew or one of the mentors review the PR for final approval.
+4. Request that one of the mentors review the PR for final approval.
 5. Once approved, merge the PR into `master`. (Your code will be built and deployed to production automatically thanks to [Netlify](https://www.netlify.com/).)
 6. Check your work on the [production site]({link to cohort live site}).
 7. Celebrate! 🥳
