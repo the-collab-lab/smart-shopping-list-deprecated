@@ -1,9 +1,12 @@
 /**
  * Calculate a weighted estimate for the interval until the next purchase
  * Current purchase a tiny bit less weight than all previous purchases
- * @param {Number} lastEstimate The last stored purchase interval estimate // TimeFrame
- * @param {Number} latestInterval The interval between the most recent and previous purchases
+ *
+ * @param {Number} lastEstimate The last estimated purchase interval
+ * @param {Number} latestInterval The number of days between the most recent and previous purchases
  * @param {Number} numberOfPurchases Total number of purchases for the item
+ *
+ * @return {Number} Estimated number of days until the next purchase
  */
 const calculateEstimate = (lastEstimate, latestInterval, numberOfPurchases) => {
     if (numberOfPurchases >= 2) {
