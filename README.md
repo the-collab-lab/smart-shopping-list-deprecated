@@ -12,11 +12,12 @@ As a user, you will enter items (e.g., “Greek yogurt” or “Paper towels”)
 
 The app will work in many of the same ways as [iNeedToBuy.xyz](https://app.ineedtobuy.xyz/) (on which our project is based) with the exception that we will not be implementing barcode scanning (that feature would add a lot of scope to the project and wasn’t all that useful).
 
-📺  [Check out a video demo of the example app here!](https://www.youtube.com/watch?v=mwj74mE9s64)
+:tv: &nbsp; Check out a video demo of the example app here: 
+[![](https://cdn.zappy.app/33815167c45d74c3ae5af232de633add.png)](https://www.youtube.com/watch?v=mwj74mE9s64&t)
 
 ## More details for contributors
 
-🎉  If you’re a Collab Lab participant, first of all: WELCOME! We’re so excited to work with you and collaborate on something amazing.
+🎉  &nbsp; If you’re a Collab Lab participant, first of all: WELCOME! We’re so excited to work with you and collaborate on something amazing.
 
 ### Make your first contribution!
 
