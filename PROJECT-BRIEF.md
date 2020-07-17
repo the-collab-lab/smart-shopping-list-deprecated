@@ -127,13 +127,13 @@ When you’re ready to start work on a feature, one person in your pair should c
 	git checkout -b an-example-feature-branch
 	git push -u origin an-example-feature-branch
 
-When you and your pair partner have working code that you believe is ready to be merged to `master` and deployed, you will follow the following steps:
+When you and your pair partner have working code that you believe is ready to be merged to `main` and deployed, you will follow the following steps:
 
 1. Create a “[pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)” (PR).
 2. Notify the other pair team in Slack that you have a new PR for them to review.
 3. Incorporate feedback from the other pair team into your work until both you and they are satisfied the code is ready to be merged.
 4. Request that one of the mentors review the PR for final approval.
-5. Once approved, merge the PR into `master`. (Your code will be built and deployed to production automatically thanks to [Netlify](https://www.netlify.com/).)
+5. Once approved, merge the PR into `main`. (Your code will be built and deployed to production automatically thanks to [Netlify](https://www.netlify.com/).)
 6. Check your work on the [production site]({link to cohort live site}).
 7. Celebrate! 🥳
 
