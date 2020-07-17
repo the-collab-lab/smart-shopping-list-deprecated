@@ -26,7 +26,7 @@ The first thing you will want to do before your kick-off call is make your first
 - Get this project set up locally by following the instructions [below in this README](#project-setup).
 - Add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) file
   - Be sure to do this from your local environment and not from GitHub in your browser. The purpose (aside from highlighting our amazing team) is to make sure you’re local environment is all set up and ready to go come day 1!
-  - Commit to the `master` branch and push it up to the remote repo. (Over the next 8 weeks, we will rely on feature branches as we collaborate on the project, but for this task committing to master will do just fine.)
+  - Commit to the `main` branch and push it up to the remote repo. (Over the next 8 weeks, we will rely on feature branches as we collaborate on the project, but for this task committing to main will do just fine.)
 
 ### What else should contributors know?
 For additional details on how your cohort will operate, please check out the [project brief](PROJECT-BRIEF.md).
