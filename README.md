@@ -53,15 +53,15 @@ For additional details on how your cohort will operate, please check out the [pr
 * Then navigate into the project by typing `cd` followed by the project directory’s name.
 ![screenshot of how to cd into the project directory](https://cdn.zappy.app/62e50c2658f91f01b22383d04c5a5e3a.png)
 
-## Update dependancies
+## Update dependencies
 
-* Once you have the project locally and you and in the project directory, you’ll want to update all the project’s dependancies. To do so, type the following into your terminal: `npm update`
+* Once you have the project locally and you are in the project directory, you’ll want to update all the project’s dependencies. To do so, type the following into your terminal: `npm update`
 ![screenshot of npm update in the terminal](https://cdn.zappy.app/b7619c19e38166329334430335746d3b.png)
 * Maybe take a sip of coffee or check in on Twitter, this could take a minute -- don’t worry.
 
 ## Access the project in your browser
 
-* After you’ve cloned the project locally and updated the dependancies, you should be able to see the project at `localhost:3000`.
+* After you’ve cloned the project locally and updated the dependencies, you should be able to see the project at `localhost:3000`.
 ![screenshot of the react project](https://cdn.zappy.app/30d5733fe9abc6d74d3adde2d046c101.png)
 
 
