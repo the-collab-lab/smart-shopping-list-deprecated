@@ -137,6 +137,16 @@ When you and your pair partner have working code that you believe is ready to be
 6. Check your work on the [production site]({link to cohort live site}).
 7. Celebrate! 🥳
 
+### Slack
+
+Most of our team coordination will happen through [the Collab Lab Slack team](https://the-collab-lab.slack.com) and, in particular, your team channel.
+
+If you’re not already super familiar with Slack, no worries! Here are a couple of tips to help you use it like a pro!
+
+1. Threads threads threads! No, seriously, threads! 😅 Threads are great because they do 2 really helpful things: 1) They encapsulate conversations so future you is able to find both the question and the answer in one place, 2) They keep notifications to a minimum, giving people the option of following a conversation or not.
+2. Speaking of notifications, tag people in when you need their attention. "@stacie, could you review this PR?" is better than "Can someone review this PR?" because the latter may be seen for a while depending on the person’s notification settings. When you need to alert the whole channel to something, use `@here`. We also have groups set up such as `@group-tcl-9` and `@group-tcl-9-mentors` as shortcuts to tagging in certain groups. Use them!
+3. Use GIFs and emoji liberally! Communicating via text can come across really dry. Don’t be afraid to communicate a little emotion along with that question about React hooks! 🤪
+
 ### What else?
 I’m around 💯% sure I’m forgetting or glossing over something important, so please be noisy on Slack as things come up. The mentors and I will do our best to get you unstuck. Also, lean on each other for help as well! Finally, work in the open so everyone can benefit from your questions.
 
