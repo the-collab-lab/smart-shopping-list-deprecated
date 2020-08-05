@@ -26,6 +26,12 @@ closes #
 
 - [ ] Add button element to shopping component
 
+## Acceptance Criteria
+
+<!-- Include AC from the Github issue -->
+
+- AC
+
 ## Updates
 
 ### Before
@@ -35,12 +41,6 @@ closes #
 ### After
 
 <!-- If UI feature, take provide screenshots -->
-
-## Acceptance Criteria
-
-<!-- Include AC from the Github issue -->
-
-- AC
 
 ## Testing Steps / QA Criteria
 
