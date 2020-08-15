@@ -22,10 +22,6 @@ closes #
 
 <!-- What does this code change? Why did I choose this approach? Did I learn anything worth sharing? Reminder: This will be a publicly facing representation of your work (READ: help you land that sweet dev gig). -->
 
-## List To Complete Task
-
-- [ ] Add button element to shopping component
-
 ## Acceptance Criteria
 
 <!-- Include AC from the Github issue -->
