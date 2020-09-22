@@ -1,19 +1,23 @@
 # Project Brief, The Collab Lab
+
 ## Smart Shopping List
 
 ### Overview
+
 The goal of this project is to work together to build a “smart” shopping list that learns your shopping habits over time, putting items you are most likely to need to buy in the near future at the top.
 
 This project is based on [iNeedToBuy.xyz](https://app.ineedtobuy.xyz/), a mobile web app Andrew built for his own use in early 2019.
 
 ### Locations for things
-* Site: {link to cohort live site}
-* Repo: {link to cohort repo}
-* Clone URL: `{clone URL}`
-* Issue list: {link to cohort repo issues}
-* Database: {link to cohort firebase database}
+
+- Site: {link to cohort live site}
+- Repo: {link to cohort repo}
+- Clone URL: `{clone URL}`
+- Issue list: {link to cohort repo issues}
+- Database: {link to cohort firebase database}
 
 ### Project cadence & duration
+
 The project is expected to take 40 hours per participant, spread over 8 weeks.
 
 Each week, the team of 4 developers will split into 2 pairs of 2 developers each. Each pair will take on a story or task from the issues list to work on together that week.
@@ -21,34 +25,42 @@ Each week, the team of 4 developers will split into 2 pairs of 2 developers each
 Pairings will go as follows:
 
 #### Week 1, {start date - end date}
+
 1. {Name} & {Name}
 2. {Name} & {Name}
 
 #### Week 2, {start date - end date}
+
 1. {Name} & {Name}
 2. {Name} & {Name}
 
 #### Week 3, {start date - end date}
+
 1. {Name} & {Name}
 2. {Name} & {Name}
 
 #### Week 4, {start date - end date}
+
 1. {Name} & {Name}
 2. {Name} & {Name}
 
 #### Week 5, {start date - end date}
+
 1. {Name} & {Name}
 2. {Name} & {Name}
 
 #### Week 6, {start date - end date}
+
 1. {Name} & {Name}
 2. {Name} & {Name}
 
 #### Week 7, {start date - end date}
+
 1. {Name} & {Name}
 2. {Name} & {Name}
 
 #### Week 8, {start date - end date}
+
 1. {Name} & {Name}
 2. {Name} & {Name}
 
@@ -62,7 +74,7 @@ There is no one “right” way to pair program, but in general, you will meet w
 
 ### Weekly Sync
 
-Each week, we’ll get on a 1-hour Zoom call. The call will always start with a *quick demo of the previous week’s work* from each pair. This is a common practice on most software teams and also lets you practice talking about your work, which can come in handy in a job interview setting!
+Each week, we’ll get on a 1-hour Zoom call. The call will always start with a _quick demo of the previous week’s work_ from each pair. This is a common practice on most software teams and also lets you practice talking about your work, which can come in handy in a job interview setting!
 
 The way we use the rest of the time will vary based on whether it’s an even- or odd-numbered week, as follows:
 
@@ -84,24 +96,25 @@ In our retros, we will share appreciations of our teammates as well as talk abou
 
 A week sounds like a long time in some ways, but part of working on a team is accounting for coordination costs. Let’s walk back our goal of demoing from the production URL on Sundays to see when different things need to happen.
 
-* Monday, Tuesday, Wednesday — Work out approach, research if needed, pair program
-* Thursday — Complete story and ask for peer feedback
-* Friday — Respond to/give peer feedback on PRs and ping mentors for feedback
-* Saturday — Respond to mentor feedback on PRs
-* Sunday — Demo on production!
+- Monday, Tuesday, Wednesday — Work out approach, research if needed, pair program
+- Thursday — Complete story and ask for peer feedback
+- Friday — Respond to/give peer feedback on PRs and ping mentors for feedback
+- Saturday — Respond to mentor feedback on PRs
+- Sunday — Demo on production!
 
 Having watched many cohorts before yours, our advice is to front-load the work as much as possible in the first couple of days of each week. Some of the stories are trickier than they appear on the surface!
 
 ### How to know what to do
+
 The project is organized in GitHub as a set of [user stories](https://www.mountaingoatsoftware.com/agile/user-stories), each with a description of the desired functionality as well as [acceptance criteria](https://www.leadingagile.com/2014/09/acceptance-criteria/) (AC) that describe how you know whether the task or story is complete. You can find the stories on [the project board]({link to the cohort repo project board}) on GitHub.
 
 A task or story is “done” when the following are all true:
 
-* The AC have been met
-* Optionally, tests have been written to validate the “[happy path](https://en.wikipedia.org/wiki/Happy_path)”
-* In the case of a UI feature, it has been reviewed for [accessibility](https://accessibilityinsights.io/)
-* The code to complete the task or implement the feature has been reviewed and approved by the other pair of developers
-* The [Product Owner](https://www.agilealliance.org/glossary/product-owner/) (i.e. one of the mentors) has accepted the work as satisfactorily meeting the requirements
+- The AC have been met
+- Optionally, tests have been written to validate the “[happy path](https://en.wikipedia.org/wiki/Happy_path)”
+- In the case of a UI feature, it has been reviewed for [accessibility](https://accessibilityinsights.io/)
+- The code to complete the task or implement the feature has been reviewed and approved by the other pair of developers
+- The [Product Owner](https://www.agilealliance.org/glossary/product-owner/) (i.e. one of the mentors) has accepted the work as satisfactorily meeting the requirements
 
 The “backlog” (the collection of stories) represents the work needed to complete the project. At the point when all of the stories are done, we should have a working app!
 
@@ -112,20 +125,21 @@ It’s super helpful both to yourself and the mentors for you to document your w
 One of the first things you & your pair buddy should do each week is create a [draft PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests#draft-pull-requests) for your work. This allows you to have a conversation about the work right alongside the code. Coupled with questions and discussions about your approach in the issue itself, this is nice way of documenting your progress as you go.
 
 ### Development process
+
 Work will be done on feature branches in git. Branches should be named in the following way:
 
-	<initials of person 1>-<initials of person 2>-<short description>
+    <initials of person 1>-<initials of person 2>-<short description>
 
 For example:
 
-	stc-an-connect-to-firestore
+    stc-an-connect-to-firestore
 
 The hypothetical example above has Stacie Taylor-Cima and Alejandro Ñáñez working together on connecting the app to Firestore. Each of them will be able to work on the feature branch independently, but only one of them will submit the merge request when the work is ready (described in more detail below).
 
 When you’re ready to start work on a feature, one person in your pair should create a local branch following the naming convention above, then push the branch to GitHub so your pair buddy can pull it down to their local environment. The following steps should work to do just this:
 
-	git checkout -b an-example-feature-branch
-	git push -u origin an-example-feature-branch
+    git checkout -b an-example-feature-branch
+    git push -u origin an-example-feature-branch
 
 When you and your pair partner have working code that you believe is ready to be merged to `main` and deployed, you will follow the following steps:
 
@@ -150,6 +164,9 @@ If you’re not already super familiar with Slack, no worries! Here are a couple
 **Note:** You can disable the animation of gifs and emojus in the Slack app itself. Visit [the Slack Help Center](https://slack.com/help/articles/228023907-Manage-animated-images-and-emoji) to learn more.
 
 ### What else?
-I’m around 💯% sure I’m forgetting or glossing over something important, so please be noisy on Slack as things come up. The mentors and I will do our best to get you unstuck. Also, lean on each other for help as well! Finally, work in the open so everyone can benefit from your questions.
 
-![gif of a My Little Pony pulling on goggles, with a determined look on their face, saying, “Let’s do this”.](http://giphygifs.s3.amazonaws.com/media/PuWNMebKGIKNG/giphy.gif)
+There’s a good chance (💯%) we’re forgetting or glossing over something important, so please be noisy on Slack as things come up. We will do our best to get you unstuck. Also, lean on each other for help as well! Finally, work in the open so everyone can benefit from your questions.
+
+### Let's Do This!
+
+![Photo of programmer Margaret Hamilton standing next to the navigation software that she and her MIT team produced for the Apollo Project.](./_resources/images/Margaret_Hamilton.gif)
