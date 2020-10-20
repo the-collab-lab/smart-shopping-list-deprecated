@@ -1,5 +1,7 @@
 # Project Brief, The Collab Lab
 
+## Smart Shopping List
+
 ### Locations for things
 
 - Site: {link to cohort live site}
