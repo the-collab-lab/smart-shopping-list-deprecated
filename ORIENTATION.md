@@ -124,6 +124,4 @@ Whew, that was a lot, right? There’s a good chance (💯%) we’re forgetting 
 
 ![Photo of programmer Margaret Hamilton standing next to the navigation software that she and her MIT team produced for the Apollo Project.](./_resources/images/Margaret_Hamilton.gif)
 
----
-
 
