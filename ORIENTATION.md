@@ -106,10 +106,22 @@ If you’re not already super familiar with Slack, no worries! Here are a couple
 
 **Note:** You can disable the animation of gifs and emojus in the Slack app itself. Visit [the Slack Help Center](https://slack.com/help/articles/228023907-Manage-animated-images-and-emoji) to learn more.
 
-### What else?
+### Let's recap!
 
-There’s a good chance (💯%) we’re forgetting or glossing over something important, so please be noisy on Slack as things come up. We will do our best to get you unstuck. Also, lean on each other for help as well! Finally, work in the open so everyone can benefit from your questions.
+Whew, that was a lot, right? There’s a good chance (💯%) we’re forgetting or glossing over something important, so please be noisy on Slack as things come up. We will do our best to get you unstuck. Also, lean on each other for help as well! Finally, work in the open so everyone can benefit from your questions.
+
+**Let's run through a quick, high-level recap of what your time at The Collab Lab will look like:** 
+
+* During your time at The Collab Lab, you’ll gain experience working on a software team, led by people in the industry, on a project structured in a way very close to what you’d see at many companies.
+* We will spend 8 weeks working together to build a smart shopping list app. See a demo of the same app that a previous team built [here](https://www.youtube.com/watch?v=uWgkwY_VBPo&feature=youtu.be).
+* Collab Lab teams consist of 4 developers, 2 mentors, and 1 assistant mentor.
+* Each week, the team’s developers will break up into 2 pairs. Each pair will tackle a single issue from the project board in the team’s GitHub repo.
+* Developers will each spend about 5 hours per week working on the project. These hours include pair programming with weekly partners, researching, working with partner asynchronously on issues, creating pull requests, and doing code reviews.
+* Each Sunday during the program, the team will have a Weekly Sync where developers will demo the feature they built in the previous week and a mentor will lead a learning module or the team participate in a retrospective.
+* **What’s next?:** Your team will kick off the project with your first weekly sync on {COHORT START DATE}
 
 ### Let's Do This!
 
 ![Photo of programmer Margaret Hamilton standing next to the navigation software that she and her MIT team produced for the Apollo Project.](./_resources/images/Margaret_Hamilton.gif)
+
+
