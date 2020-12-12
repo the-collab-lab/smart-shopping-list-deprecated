@@ -41,7 +41,7 @@ A task or story is “done” when the following are all true:
 
 Each week the team will split into pairs and each pair will be responsible for completing a single story from the backlog.
 
-At the end of the 8 week project, all of the stories will be complete and we will have a beautifully functioning app that the team has collaboratively built! 
+At the end of the 8 week project all of the stories will be complete and we will have a beautifully functioning app that the team has collaboratively built! 
 
 ### Coordination & communication
 
