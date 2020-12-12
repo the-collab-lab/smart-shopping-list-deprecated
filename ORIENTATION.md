@@ -107,7 +107,7 @@ Having watched many cohorts before yours, our advice is to front-load the work a
 
 ### Weekly Syncs 
 
-Every Sunday, the team will gather for 1-hour on Zoom for a Weekly Sync. Those meetings will always follow a familiar pattern: 
+Every Sunday the team will gather for 1-hour on Zoom for a Weekly Sync. Those meetings will always follow a familiar pattern: 
 
 - Demos/discussion (15 minutes)
   - The call will always start with each pair presenting a quick demo of the feature they built in “production” (the live version of the app that is deployed to the web for the world to see) followed by a concise walk-through of the code they wrote to build it. This is a common practice on most software teams and also lets you practice talking about your work, which can come in handy in a job interview setting!
