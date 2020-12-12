@@ -14,7 +14,7 @@ Every team builds their app from the same set of instructions, but each comes ou
 
 ## Who am I working with?  
 
-When new developers and mentors join the Collab Lab community, they join a group of brilliant and supportive friends that stretch across the globe. Every quarter, a new cohort starts that consists of several regionally-based teams. Those teams are comprised of four developers who collaborate to complete an app of their own and three mentors to help support them through the project. 
+When new developers and mentors join the Collab Lab community they join a group of brilliant and supportive friends that stretch across the globe. Every quarter a new cohort starts that consists of several regionally-based teams. Those teams are comprised of four developers who collaborate to complete an app of their own and three mentors to help support them through the project. 
 
 ## Why do we do what we do? 
 
