@@ -52,7 +52,7 @@ One of the first things you & your pair buddy should do each week is create a [d
 
 ### Slack
 
-Most of our team coordination will happen through [the Collab Lab Slack team](https://the-collab-lab.slack.com) and, in particular, your team channel.
+Most of our team coordination will happen through [the Collab Lab Slack team](https://the-collab-lab.slack.com) and in particular your team channel.
 
 If you’re not already super familiar with Slack, no worries! Here are a couple of tips to help you use it like a pro!
 
