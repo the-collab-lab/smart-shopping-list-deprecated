@@ -97,7 +97,7 @@ The project should take about 40 hours total over the 8 weeks. That breaks down 
 
 A week sounds like a long time in some ways, but part of working on a team is accounting for coordination costs. Let’s walk back our goal of demoing from the production URL on Sundays to see when different things need to happen.
 
-- Monday, Tuesday, Wednesday — Work out approach, research if needed, pair program
+- Monday, Tuesday, Wednesday — Work out approach, research if needed, and pair program
 - Thursday — Complete story and ask for peer feedback
 - Friday — Respond to/give peer feedback on PRs and ping mentors for feedback
 - Saturday — Respond to mentor feedback on PRs
