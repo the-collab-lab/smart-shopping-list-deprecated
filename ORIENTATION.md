@@ -39,7 +39,7 @@ A task or story is “done” when the following are all true:
 - The code to complete the task or implement the feature has been reviewed and approved by the other pair of developers
 - The [Product Owner](https://www.agilealliance.org/glossary/product-owner/) (i.e. one of the mentors) has accepted the work as satisfactorily meeting the requirements
 
-Each week, the team will split into pairs and each pair will complete a single story from the backlog. 
+Each week, the team will split into pairs and each pair will be responsible for completing a single story from the backlog.
 
 At the end of the 8 week project, all of the stories will be complete and we will have a beautifully functioning app that the team has collaboratively built! 
 
