@@ -112,7 +112,7 @@ Every Sunday the team will gather for 1-hour on Zoom for a Weekly Sync. Those me
 - Demos/discussion (15 minutes)
   - The call will always start with each pair presenting a quick demo of the feature they built in “production”, the live version of the app that is deployed to the web for the world to see. This is followed by a concise walk-through of the code they wrote to build it. This is a common practice on most software teams that lets you practice talking about your work, which can come in handy in a job interview setting!
 - Learning module (30 minutes every other week)
-  - Presentations by mentors on topics that align with what your team is learning. Examples: git, code reviewing, pair programming, communication for developers. 
+  - Presentations by mentors on topics that align with what your team is learning. Examples include git, code reviewing, pair programming, and communication for developers. 
 - Retrospective (30 minutes every other week)
   - In our retros, we will share appreciations of our teammates as well as talk about what went well from a process perspective and what we could do to improve how we’re working together.
 - Mentors meet with pairs to talk through approach to upcoming week’s work (15 minutes)
