@@ -3,7 +3,7 @@
 
 ## What is The Collab Lab?
 
-The Collab Lab exists to help early-career engineers gain practical experience by working remotely on real world projects with other early-career developers.
+The Collab Lab exists to help early-career engineers gain experience working collaboratively on a software team by working remotely on real world projects with other early-career developers.
 
 The goal of this project is to work together to build a “smart” shopping list that learns your shopping habits over time, putting items you are most likely to need to buy in the near future at the top.
 
