@@ -25,7 +25,7 @@ A portion of your dedicated hours each week will be spent [pair programming](htt
 
 Pair programming offers some really exciting opportunities to teach/learn from your partner, get a different perspective and/or insight on the issues you’re facing, and drive forward progress on your goals.
 
-There is no one “right” way to pair program, but in general, you will meet with your partner on Zoom to work through the story or task you’ve chosen for that week. You’re encouraged to test out some different approaches to pair programming to see what works best for your and your partner’s collaboration styles.
+There is no one “right” way to pair program, but in general you will meet with your partner on Zoom to work through the story or task you’ve chosen for that week. You’re encouraged to test out different approaches to pair programming to see what works best for your and your partner’s collaboration styles.
 
 
 ## How does it all work?  
