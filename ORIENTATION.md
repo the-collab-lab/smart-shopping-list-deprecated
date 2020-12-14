@@ -30,7 +30,7 @@ There is no one “right” way to pair program, but in general you will meet wi
 
 ## How does it all work?  
 
-The project is organized in GitHub as a set of [user stories](https://www.mountaingoatsoftware.com/agile/user-stories), each with a description of the desired functionality as well as [acceptance criteria](https://www.leadingagile.com/2014/09/acceptance-criteria/) (AC) that describe how you know whether the task or story is complete. You can find the stories on [the project board]({link to the cohort repo project board}) on GitHub. This is referred to as  the “backlog” (the collection of stories) and represents the work needed to complete the project. 
+The project is organized in GitHub as a set of [user stories](https://www.mountaingoatsoftware.com/agile/user-stories), each with a description of the desired functionality as well as [acceptance criteria](https://www.leadingagile.com/2014/09/acceptance-criteria/ (AC)) that describe how you know whether the task or story is complete. You can find the stories on [the project board]({link to the cohort repo project board}) on GitHub. This is referred to as the “backlog” (the collection of stories) and represents the work needed to complete the project. 
 
 A task or story is “done” when the following are all true:
 
