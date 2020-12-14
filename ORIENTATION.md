@@ -133,7 +133,7 @@ Whew, that was a lot, right? There’s a good chance (💯%) we’re forgetting 
 
 ## What's Next? 
 
-Your team will kick off the project with your first weekly sync on {COHORT START DATE}. In that meeting, we will present a Learning Module  on git best practices and get all set up to collaborate on the app. Then, after the meeting you will schedule pair programming sessions with your partner to work through your story of the week! 
+Your team will kick off the project with your first weekly sync on {COHORT START DATE}. In the meeting we will present a Learning Module on git best practices and get everyone set up to collaborate on the app. Afterwards you will schedule pair programming sessions with your partner to work through your story of the week! 
 
 ### Let's Do This!
 
