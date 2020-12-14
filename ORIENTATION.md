@@ -60,7 +60,7 @@ If you’re not already super familiar with Slack, no worries! Here are a couple
 2. Speaking of notifications, tag people in when you need their attention. “`@stacie`, could you review this PR?” is better than “Can someone review this PR?” because the latter may not be seen for a while depending on the person’s notification settings. When you need to alert the whole channel to something use `@here`. We also have groups set up such as `@group-tcl-9` and `@group-tcl-9-mentors` as shortcuts to tagging in certain groups. Use them!
 3. Use GIFs and emoji liberally! Communicating via text can come across really dry. Don’t be afraid to communicate a little emotion along with that question about React hooks! 🤪
 
-**Note:** You can disable the animation of gifs and emojus in the Slack app itself. Visit [the Slack Help Center](https://slack.com/help/articles/228023907-Manage-animated-images-and-emoji) to learn more.
+**Note:** You can disable the animation of gifs and emoji in the Slack app itself. Visit [the Slack Help Center](https://slack.com/help/articles/228023907-Manage-animated-images-and-emoji) to learn more.
 
 ### Development process
 
