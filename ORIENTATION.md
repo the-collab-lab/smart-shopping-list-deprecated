@@ -117,7 +117,8 @@ Every Sunday the team will gather for 1-hour on Zoom for a Weekly Sync. Those me
   - Presentations by mentors on topics that align with what your team is learning. Examples include git, code reviewing, pair programming, and communication for developers. 
 - Retrospective (30 minutes every other week)
   - In our retros, we will share appreciations of our teammates, talk about what went well from a process perspective, and discuss what we could do to improve how we’re working together.
-- Mentors meet with pairs to talk through approach to the upcoming week’s work (15 minutes)
+- Planning (15 minutes)
+  - Mentors meet with pairs to talk through approach to the upcoming week’s work (15 minutes)
 
 
 ## Let's recap!
