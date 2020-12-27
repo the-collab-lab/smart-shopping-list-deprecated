@@ -3,7 +3,7 @@
 
 ## What is The Collab Lab?
 
-The Collab Lab exists to help early-career engineers gain experience working collaboratively on a software team by working remotely on real world projects with other early-career developers.
+The Collab Lab exists to help early-career engineers gain experience working collaboratively on a software team by working remotely on real-world projects with other early-career developers.
 
 The goal of this project is to work together to build a “smart” shopping list that learns your shopping habits over time, putting items you are most likely to need to buy in the near future at the top.
 
@@ -21,12 +21,11 @@ When new developers and mentors join the Collab Lab community they join a group 
 Knowing how to code is just one aspect of being a professional web developer. Another super important skill is knowing how to collaborate effectively on a software team—that’s where Collab Lab comes into play!
 
 ### Pair Programming:
-A portion of your dedicated hours each week will be spent [pair programming](https://www.microverse.org/blog/how-remote-pair-programming-works-and-why-it-can-change-your-life) with your partner—this is where the most magical collaboration happens.
+A portion of your dedicated hours each week will be spent [pair programming](https://www.microverse.org/blog/how-remote-pair-programming-works-and-why-it-can-change-your-life) with your partner for the week—this is where the most magical collaboration happens.
 
 Pair programming offers some really exciting opportunities to teach/learn from your partner, get a different perspective and/or insight on the issues you’re facing, and drive forward progress on your goals.
 
-There is no one “right” way to pair program, but in general you will meet with your partner on Zoom to work through the story or task you’ve chosen for that week. You’re encouraged to test out different approaches to pair programming to see what works best for your and your partner’s collaboration styles.
-
+There is no one “right” way to pair program, but in general you will meet with your partner on Zoom to work through the story or task you’ve chosen for that week. You’re encouraged to test out different approaches to pair programming to see what works best for your and your partners’ collaboration styles.
 
 ## How does it all work?  
 
