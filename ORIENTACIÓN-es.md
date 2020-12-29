@@ -63,10 +63,10 @@ Nota: puedes deshabilitar las animaciones de gifs y emoji en la app de Slack. Ve
 Por ejemplo:
 
 ```
-stc-an-connect-to-firestore
+st-an-connect-to-firestore
 ```
 
-El ejemplo hipotético previo tiene a Stacie Taylor - Cima and Alejandro Ñáñez trabajando juntes conectando la app a Firestore. Luego, cada une puede trabajar en su rama independientemente, pero solo una manda el PR cuando el trabajo esté listo (hay más detalles sobre esto proximamente).
+El ejemplo hipotético previo tiene a Stacie Taylor and Alejandro Ñáñez trabajando juntes conectando la app a Firestore. Luego, cada une puede trabajar en su rama independientemente, pero solo una manda el PR cuando el trabajo esté listo (hay más detalles sobre esto proximamente).
 
 When estas listo para trabajar en un deature, una persona del par debe crear la rama en su local siguiendo la convención introducida previamente, luego subirla a GitHub para que tu pareja de trabajo le pueda hacer pull en su local. Los siguentes pasos hacen justo esto:
 
