@@ -29,11 +29,6 @@
       "plugin:jsx-a11y/recommended"
     ]
   },
-  "prettier": {
-    "semi": true,
-    "trailingComma": "all",
-    "singleQuote": true
-  },
   "browserslist": {
     "production": [
       ">0.2%",
