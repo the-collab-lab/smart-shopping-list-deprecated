@@ -19,7 +19,7 @@ Cuando se unen nuevxs devs y mentores a la comunidad de The Collab Lab, se unen 
 
 Saber escribir codigo es solo un aspecto de ser un dev profesional. Otro aspecto super important es saber como colaborar efectivamente en un equipo de desarollo de software. Ahí es donde The Collab Lab te puede ayudar!
 
-### Pair Programming/Programación en pares:
+### Programación en pares:
 
 Una parte de tus horas cada semana estaras [programando con tu pareja de equipo](https://www.microverse.org/blog/how-remote-pair-programming-works-and-why-it-can-change-your-life) - aqui es donde la colaboración más magica ocurre.
 
@@ -85,13 +85,13 @@ git checkout -b an-example-feature-branch
 git push -u origin an-example-feature-branch
 ```
 
-Cuando tu y tu pareja de trabajo tengan codigo funcional y creen que esta listo para mergearlo con main y deployear, seguiran estos pasos:
+Cuando tu y tu pareja de trabajo tengan codigo funcional y creen que esta listo para mergearlo con `main` y deployear, seguiran estos pasos:
 
 1. Crea un “[pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)” PR
 2. Avisale al otro equipo de pares en Slack que tienen un nuevo PR para revisar
 3. Incorpora el feedback del otro equipo en tu trabajo hasta que todes estan satisfechos que el codigo está listo para mergear
 4. Pedele un code review a una de las mentoras
-5. Ya aprobado, mergea el PR a main. (Tu codigo hace el build y se deploya a produccion automáticamente usando [Netlify](https://www.netlify.com/)
+5. Ya aprobado, mergea el PR a `main`. (Tu codigo hace el build y se deploya a produccion automáticamente usando [Netlify](https://www.netlify.com/)
 6. Revisa tu trabajo en [producción]({PRODUCTION_URL})
 7. Celebra!
 
