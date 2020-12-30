@@ -4,11 +4,11 @@
 
 ### Locations for things
 
-- Site: {link to cohort live site}
-- Repo: {link to cohort repo}
-- Clone URL: `{clone URL}`
-- Issue list: {link to cohort repo issues}
-- Database: {link to cohort firebase database}
+- Site: {PRODUCTION_URL}
+- Repo: {REPO_URL}
+- Clone URL: {REPO_CLONE_URL}
+- Issue list: {PROJECT_BOARD_URL}
+- Google Cloud Console: {CONSOLE_URL}
 
 ### Project cadence & duration
 
@@ -18,42 +18,42 @@ Each week, the team of 4 developers will split into 2 pairs of 2 developers each
 
 Pairings will go as follows:
 
-#### Week 1, {start date - end date}
+#### Week 1, {DATES_WEEK_1}
 
-1. {Name} & {Name}
-2. {Name} & {Name}
+1. {DEV_1} & {DEV_2}
+2. {DEV_3} & {DEV_4}
 
-#### Week 2, {start date - end date}
+#### Week 2, {DATES_WEEK_2}
 
-1. {Name} & {Name}
-2. {Name} & {Name}
+1. {DEV_2} & {DEV_3}
+2. {DEV_1} & {DEV_4}
 
-#### Week 3, {start date - end date}
+#### Week 3, {DATES_WEEK_3}
 
-1. {Name} & {Name}
-2. {Name} & {Name}
+1. {DEV_3} & {DEV_1}
+2. {DEV_4} & {DEV_2}
 
-#### Week 4, {start date - end date}
+#### Week 4, {DATES_WEEK_4}
 
-1. {Name} & {Name}
-2. {Name} & {Name}
+1. {DEV_1} & {DEV_2}
+2. {DEV_3} & {DEV_4}
 
-#### Week 5, {start date - end date}
+#### Week 5, {DATES_WEEK_5}
 
-1. {Name} & {Name}
-2. {Name} & {Name}
+1. {DEV_2} & {DEV_3}
+2. {DEV_1} & {DEV_4}
 
-#### Week 6, {start date - end date}
+#### Week 6, {DATES_WEEK_6}
 
-1. {Name} & {Name}
-2. {Name} & {Name}
+1. {DEV_3} & {DEV_1}
+2. {DEV_4} & {DEV_2}
 
-#### Week 7, {start date - end date}
+#### Week 7, {DATES_WEEK_7}
 
-1. {Name} & {Name}
-2. {Name} & {Name}
+1. {DEV_1} & {DEV_2}
+2. {DEV_3} & {DEV_4}
 
-#### Week 8, {start date - end date}
+#### Week 8, {DATES_WEEK_8}
 
-1. {Name} & {Name}
-2. {Name} & {Name}
+1. {DEV_2} & {DEV_3}
+2. {DEV_1} & {DEV_4}
