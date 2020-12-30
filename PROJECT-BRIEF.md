@@ -8,7 +8,7 @@
 - Repo: {REPO_URL}
 - Clone URL: {REPO_CLONE_URL}
 - Issue list: {PROJECT_BOARD_URL}
-- Google Cloud Console: {CONSOLE_URL}
+- Database: {CONSOLE_URL}
 
 ### Project cadence & duration
 
