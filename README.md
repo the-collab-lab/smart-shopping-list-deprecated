@@ -61,7 +61,7 @@ For additional details on how your cohort will operate, please check out the [pr
 
 ## Access the project in your browser
 
-* After you’ve cloned the project locally and updated the dependencies, you should be able to see the project at `localhost:3000`.
+* After you’ve cloned the project locally and updated the dependencies, run the project by typing the following into your terminal: `npm start`. You should be able to see the project at `localhost:3000`.
 ![screenshot of the react project](https://cdn.zappy.app/30d5733fe9abc6d74d3adde2d046c101.png)
 
 
