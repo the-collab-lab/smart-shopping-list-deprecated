@@ -2,13 +2,16 @@ name: update-deps
 on: [create]
 jobs:
   npm-update:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:
-          node-version: '12'
+          node-version: '14'
+      - run: npm install
       - run: npm update
+      - run: git rm -r --cached .github
+      - run: rm -rf .github/
       - uses: EndBug/add-and-commit@v7.0.0
         with:
           add: '.'
