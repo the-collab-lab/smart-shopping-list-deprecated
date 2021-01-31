@@ -15,6 +15,10 @@ Every team builds their app from the same set of instructions, but each comes ou
 
 When new developers and mentors join the Collab Lab community they join a group of brilliant and supportive friends that stretch across the globe. Every quarter a new cohort starts that consists of several regionally-based teams. Those teams are comprised of four developers who collaborate to complete an app of their own and three mentors to help support them through the project.
 
+_Why are we sharing the pronouns we use to describe ourselves?_
+
+Gender identity is a significant part of who we are as individuals, and we want our developers to feel comfortable bringing their whole selves to Collab Lab. [Here's a great blog post](https://www.cultureamp.com/blog/sharing-gender-pronouns-at-work/) with more information about the use of gender pronouns.
+
 ## Why do we do what we do?
 
 Knowing how to code is just one aspect of being a professional web developer. Another super important skill is knowing how to collaborate effectively on a software team—that’s where Collab Lab comes into play!
