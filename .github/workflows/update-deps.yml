@@ -10,7 +10,7 @@ jobs:
       - run: npm update
       - run: git rm -r --cached .github
       - run: rm -rf .github/
-      - uses: EndBug/add-and-commit@v7.0.0
+      - uses: EndBug/add-and-commit@latest
         with:
           add: '.'
           message: 'Update dependencies with "npm update"'
