@@ -105,6 +105,8 @@ A week sounds like a long time in some ways, but part of working on a team is ac
 
 Having watched many cohorts before yours, our advice is to front-load the work as much as possible in the first couple of days of each week. Some of the stories are trickier than they appear on the surface!
 
+![Weekly Cadence Infograph](https://user-images.githubusercontent.com/25017973/111340762-27dbbc00-8636-11eb-92a2-04a31916f9e5.png)
+
 ### Weekly Syncs
 
 Every Sunday the team will gather for 1-hour on Zoom for a Weekly Sync. Those meetings will always follow a familiar pattern:
