@@ -91,7 +91,7 @@ Cuando tu y tu pareja de trabajo tengan codigo funcional y creen que esta listo 
 2. Avisale al otro equipo de pares en Slack que tienen un nuevo PR para revisar
 3. Incorpora el feedback del otro equipo en tu trabajo hasta que todes estan satisfechos que el codigo está listo para mergear
 4. Pedele un code review a una de las mentoras
-5. Ya aprobado, mergea el PR a `main`. (Tu codigo hace el build y se deploya a produccion automáticamente usando [Netlify](https://www.netlify.com/)
+5. Ya aprobado, mergea el PR a `main`. (Tu codigo hace el build y se deploya a produccion automáticamente usando [Firebase Hosting](https://firebase.google.com/docs/hosting).)
 6. Revisa tu trabajo en [producción]({PRODUCTION_URL})
 7. Celebra!
 
