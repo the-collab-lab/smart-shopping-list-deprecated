@@ -16,5 +16,9 @@ var firebaseConfig = {
 };
 
 let fb = firebase.initializeApp(firebaseConfig);
+const db = firebase.firestore();
 
-export { fb };
+export const writeToFirestore = (collectionName, options = {}) => {
+  db.collection(collectionName).add(options)
+}
+export { db, fb };
