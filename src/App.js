@@ -1,33 +1,28 @@
-import React, { useState } from 'react';
-import { db, writeToFirestore } from './lib/firebase'
-import { useCollection } from 'react-firebase-hooks/firestore'
+import React from 'react';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import AddItem from './AddItem';
 import './App.css';
+import Footer from './components/Footer';
+import List from './List';
+
 
 function App() {
-  const list = 'shopping-list'
-  const [name, setName] = useState('')
-  const [results, loading, error] = useCollection(db.collection(list))
-
-  const handleSubmit = e => {
-    e.preventDefault()
-    writeToFirestore(list, { name })
-    setName('')
-  }
-
   return (
     <div className="App">
-      <form onSubmit={handleSubmit}>
-        <label htmlFor="name">Name</label>
-        <input id="name" id="name" type="text" onChange={e => setName(e.target.value)} value={name} />
-        <button type="submit">Add item</button>
-      </form>
-      {error && <strong>Error: {JSON.stringify(error)}</strong>}
-      {loading && <span>Collection: Loading...</span>}
-      <ul>
-        {results && results.docs.map(item => (
-          <li key={item.data().name}>{item.data().name}</li>
-        ))}
-      </ul>
+      <Router>
+          <Switch>
+              <Route exact path="/">
+                  Home
+              </Route>
+              <Route activeStyle={{fontWeight: 700}} exact path="/list">
+                  <List />
+              </Route>
+              <Route activeStyle={{fontWeight: 700}} exact path="/add-item">
+                  <AddItem />
+              </Route>
+          </Switch>
+        <Footer />
+      </Router>
     </div>
   );
 }
