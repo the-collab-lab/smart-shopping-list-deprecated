@@ -20,3 +20,12 @@
 .App-link {
   color: #09d3ac;
 }
+
+.footer {
+  bottom: 0;
+  display: flex;
+  justify-content: space-evenly;
+  position: fixed;
+  width: 100%;
+  list-style: none;
+}
