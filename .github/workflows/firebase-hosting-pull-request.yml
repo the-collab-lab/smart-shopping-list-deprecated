@@ -12,7 +12,7 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_BLOG_88FA0 }}'
-          projectId: blog-88fa0
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_SHOPPING_C16D8 }}'
+          projectId: shopping-c16d8
         env:
           FIREBASE_CLI_PREVIEWS: hostingchannels
