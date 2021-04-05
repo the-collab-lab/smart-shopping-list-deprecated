@@ -1,22 +1,12 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import { db, writeToFirestore } from './lib/firebase'
+import { useCollection } from 'react-firebase-hooks/firestore'
 import './App.css';
 
 function App() {
   const list = 'shopping-list'
-  const [results, setResults] = useState([])
   const [name, setName] = useState('')
-
-  useEffect(() => {
-    db.collection(list).onSnapshot((querySnapshot) => {
-      let queryResults = []
-      querySnapshot.forEach((doc) => {
-        const { name } = doc.data()
-        queryResults.push({ name })
-      })
-      setResults(queryResults)
-    })
-  }, [])
+  const [results, loading, error] = useCollection(db.collection(list))
 
   const handleSubmit = e => {
     e.preventDefault()
@@ -31,9 +21,11 @@ function App() {
         <input id="name" id="name" type="text" onChange={e => setName(e.target.value)} value={name} />
         <button type="submit">Add item</button>
       </form>
+      {error && <strong>Error: {JSON.stringify(error)}</strong>}
+      {loading && <span>Collection: Loading...</span>}
       <ul>
-        {results && results.map(item => (
-          <li key={item.name}>{item.name}</li>
+        {results && results.docs.map(item => (
+          <li key={item.data().name}>{item.data().name}</li>
         ))}
       </ul>
     </div>
