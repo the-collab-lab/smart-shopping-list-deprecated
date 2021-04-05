@@ -7,10 +7,6 @@ const Footer = () =>  {
             <nav>
                 <ul className="footer">
                     <li>
-                        <NavLink activeStyle={{fontWeight: 700}} exact to="/">Home</NavLink>
-
-                    </li>
-                    <li>
                         <NavLink activeStyle={{fontWeight: 700}} exact to="/list">List</NavLink>
 
                     </li>
