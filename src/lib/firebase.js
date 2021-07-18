@@ -15,6 +15,7 @@ var firebaseConfig = {
   appId: { TCL_X_APP_ID },
 };
 
-let fb = firebase.initializeApp(firebaseConfig);
+const firebaseInstance = firebase.initializeApp(firebaseConfig);
+const db = firebaseInstance.firestore();
 
-export { fb };
+export { db };
