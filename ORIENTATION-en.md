@@ -95,7 +95,7 @@ The project should take about 40 hours total over the 8 weeks. That breaks down 
 
 ### Weekly Cadence
 
-A week sounds like a long time in some ways, but part of working on a team is accounting for coordination costs. Let’s walk back our goal of demoing from the production URL on Sundays to see when different things need to happen.
+A week sounds like a long time in some ways, but part of working on a team is accounting for coordination costs. Let’s walk back our goal of demoing from the production URL on the weekend to see when different things need to happen. This example timeline assumes the Weekly Sync is on Sunday.
 
 - Monday, Tuesday, Wednesday — Work out approach, research if needed, and pair program
 - Thursday — Complete story and ask for peer feedback
@@ -109,7 +109,7 @@ Having watched many cohorts before yours, our advice is to front-load the work a
 
 ### Weekly Syncs
 
-Every Sunday the team will gather for 1-hour on Zoom for a Weekly Sync. Those meetings will always follow a familiar pattern:
+Every weekend the team will gather for 1-hour on Zoom for a Weekly Sync. Those meetings will always follow a familiar pattern:
 
 - Demos/discussion (15 minutes)
   - The call will always start with each pair presenting a quick demo of the feature they built in “production”, the live version of the app that is deployed to the web for the world to see. This is followed by a concise walk-through of the code they wrote to build it. This is a common practice on most software teams that lets you practice talking about your work, which can come in handy in a job interview setting!
@@ -128,14 +128,14 @@ Whew, that was a lot, right? There’s a good chance (💯%) we’re forgetting 
 
 - During your time at The Collab Lab, you’ll gain experience working on a software team, led by people in the industry, on a project structured in a way very close to what you’d see at many companies.
 - We will spend 8 weeks working together to build a smart shopping list app. See a demo of the same app that a previous team built [here](https://www.youtube.com/watch?v=uWgkwY_VBPo&feature=youtu.be).
-- Collab Lab teams consist of 4 developers, 2 mentors, and 1 assistant mentor.
+- Collab Lab teams consist of 4 developers and 3 mentors.
 - Each week, the team’s developers will break up into 2 pairs. Each pair will tackle a single issue from the project board in the team’s GitHub repo.
 - Developers will each spend about 5 hours per week working on the project. These hours include pair programming with weekly partners, researching, working with partner asynchronously on issues, creating pull requests, and doing code reviews.
-- Each Sunday during the program, the team will have a Weekly Sync where developers will demo the feature they built in the previous week and a mentor will lead a learning module or the team participate in a retrospective.
+- Each weekend during the program, the team will have a Weekly Sync where developers will demo the feature they built in the previous week and a mentor will lead a learning module or the team participate in a retrospective.
 
 ## What's Next?
 
-Your team will kick off the project with your first weekly sync on {COHORT_START_DATE}. In the meeting we will present a Learning Module on git best practices and get everyone set up to collaborate on the app. Afterwards you will schedule pair programming sessions with your partner to work through your story of the week!
+Your team will kick off the project with your first weekly sync this weekend. In the meeting we will present a Learning Module on git best practices and get everyone set up to collaborate on the app. Afterwards you will schedule pair programming sessions with your partner to work through your story of the week!
 
 ### Let's Do This!
 
