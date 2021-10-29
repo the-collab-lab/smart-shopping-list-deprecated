@@ -1,21 +1,17 @@
-// NOTE: import only the Firebase modules that you need in your app... except
-// for the second line, which makes both the linter and react-firebase happy
-import firebase from 'firebase/app';
-import 'firebase/firestore';
+// NOTE: import only the Firebase modules that you need in your app.
+import { initializeApp } from 'firebase/app';
+import { getFirestore } from 'firebase/firestore';
 
-// Initalize Firebase.
+// Initialize Firebase.
 // These details will need to be replaced with the project specific env vars at the start of each new cohort.
-var firebaseConfig = {
-  apiKey: { TCL_X_API_KEY },
-  authDomain: { TCL_X_AUTH_DOMAIN },
-  databaseURL: { TCL_X_DATABASE_URL },
-  projectId: { TCL_X_PROJECT_ID },
-  storageBucket: { TCL_X_STORAGE_BUCKET },
-  messagingSenderId: { TCL_X_SENDER_ID },
-  appId: { TCL_X_APP_ID },
+const firebaseConfig = {
+  apiKey: API_KEY,
+  authDomain: AUTH_DOMAIN,
+  projectId: PROJECT_ID,
+  storageBucket: STORAGE_BUCKET,
+  messagingSenderId: MESSAGING_SENDER_ID,
+  appId: APP_ID
 };
 
-const firebaseInstance = firebase.initializeApp(firebaseConfig);
-const db = firebaseInstance.firestore();
-
-export { db };
+export const app = initializeApp(firebaseConfig);
+export const db = getFirestore();
