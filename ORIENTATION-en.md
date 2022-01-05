@@ -21,7 +21,7 @@ Knowing how to code is just one aspect of being a professional web developer. An
 
 ### Pair Programming:
 
-A portion of your dedicated hours each week will be spent [pair programming](https://www.microverse.org/blog/how-remote-pair-programming-works-and-why-it-can-change-your-life) with your partner for the week—this is where the most magical collaboration happens.
+A portion of your dedicated hours each week will be spent [pair programming](https://www.microverse.org/blog/how-remote-pair-programming-works-and-why-it-can-change-your-life) with [your partner for the week](PROJECT-BRIEF.md)—this is where the most magical collaboration happens.
 
 Pair programming offers some really exciting opportunities to teach/learn from your partner, get a different perspective and/or insight on the issues you’re facing, and drive forward progress on your goals.
 
@@ -130,7 +130,7 @@ Whew, that was a lot, right? There’s a good chance (💯%) we’re forgetting 
 - We will spend 8 weeks working together to build a smart shopping list app. See a demo of the same app that a previous team built [here](https://www.youtube.com/watch?v=uWgkwY_VBPo&feature=youtu.be).
 - Collab Lab teams consist of 4 developers and 3 mentors.
 - Each week, the team’s developers will break up into 2 pairs. Each pair will tackle a single issue from the project board in the team’s GitHub repo.
-- Developers will each spend about 5 hours per week working on the project. These hours include pair programming with weekly partners, researching, working with partner asynchronously on issues, creating pull requests, and doing code reviews.
+- Developers will each spend about 5 hours per week working on the project. These hours include pair programming with [weekly partners](PROJECT-BRIEF.md), researching, working with partner asynchronously on issues, creating pull requests, and doing code reviews.
 - Each weekend during the program, the team will have a Weekly Sync where developers will demo the feature they built in the previous week and a mentor will lead a learning module or the team participate in a retrospective.
 
 ## What's Next?

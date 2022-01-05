@@ -23,7 +23,7 @@ Saber escribir codigo es solo un aspecto de ser un dev profesional. Otro aspecto
 
 Una parte de tus horas cada semana estaras [programando con tu pareja de equipo](https://www.microverse.org/blog/how-remote-pair-programming-works-and-why-it-can-change-your-life) - aqui es donde la colaboración más magica ocurre.
 
-Programar en pares trae unas oportunidades muy emocionantes de enseñar y aprender de tu pareja, ver otra perspectiva y/o visión de los retos que estan enfrentando y avanzar en las metas compartidas.
+Programar en pares trae unas oportunidades muy emocionantes de enseñar y aprender de [tu pareja](PROJECT-BRIEF.md), ver otra perspectiva y/o visión de los retos que estan enfrentando y avanzar en las metas compartidas.
 
 No hay una sola manera de programar en pares, pero en general te encuentras con tu pareja por Zoom y trabajaran la historia de usuario o tarea de la semana. Animate a probar maneras distintas de programar juntxs para ver que les va mejor acorde a sus estilos de colaboración.
 
@@ -137,7 +137,7 @@ Eso fue demasiado, ¿Cierto? Es muy probable (💯%) que hayamos olvidado u omit
 - Trabajaremos juntos por 8 semanas para construir un Smart Shopping List. Puedes ver un demo de lo que otros equipos construyeron [aquí](https://www.youtube.com/watch?v=uWgkwY_VBPo&feature=youtu.be)
 - Los equipos están conformados por 4 developers, 2 mentores y un mentor asistente.
 - Cada semana, los equipos de developers se separarán en 2 parejas. Cada pareja trabajará un issue del project board en el repositorio de Github del proyecto.
-- Los developers invertirán 5 horas por semana para trabajar en el proyecto. Esas horas incluyen: Pair programming con su pareja semanal, investigación, trabajo con su pareja de manera asíncrona en su issue, creación de Pull Requests y code reviews.
+- Los developers invertirán 5 horas por semana para trabajar en el proyecto. Esas horas incluyen: Pair programming con [su pareja](PROJECT-BRIEF.md) semanal, investigación, trabajo con su pareja de manera asíncrona en su issue, creación de Pull Requests y code reviews.
 - Cada domingo durante el programa, el equipo tendrá un Weekly Sync donde los developers demostrarán el feature que construyeron durante la semana y un mentor liderará un learning module o el equipo participará en el Retrospective.
 
 ## ¿Qué sigue?
