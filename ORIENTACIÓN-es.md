@@ -29,7 +29,7 @@ No hay una sola manera de programar en pares, pero en general te encuentras con 
 
 ## ¿Como funciona todo?
 
-El proyecto está organizado en GitHub como un set de [historias de usuario](https://www.mountaingoatsoftware.com/agile/user-stories), cada una con una descripción de la funcionalidad deseada, y tambien con [los criterios de aceptación](https://www.leadingagile.com/2014/09/acceptance-criteria/) que describen como saber si la tarea o la historia estan listos. Puedes encontrar las historias de usuario en [el board del proyecto]({PROJECT_BOARD_URL}) en GitHub. Esta colección de historias de usuario se llama el “backlog” y representa el trabajo necesario para terminar el proyecto.
+El proyecto está organizado en GitHub como un set de [historias de usuario](https://www.mountaingoatsoftware.com/agile/user-stories), cada una con una descripción de la funcionalidad deseada, y tambien con [los criterios de aceptación](https://www.leadingagile.com/2014/09/acceptance-criteria/) que describen como saber si la tarea o la historia estan listos. Puedes encontrar las historias de usuario en el board del proyecto en GitHub. Esta colección de historias de usuario se llama el “backlog” y representa el trabajo necesario para terminar el proyecto.
 
 Una tarea o historia está “lista”/”done” cuando lo siguente está implementado:
 
@@ -92,7 +92,7 @@ Cuando tu y tu pareja de trabajo tengan codigo funcional y creen que esta listo 
 3. Incorpora el feedback del otro equipo en tu trabajo hasta que todes estan satisfechos que el codigo está listo para mergear
 4. Pedele un code review a una de las mentoras
 5. Ya aprobado, mergea el PR a `main`. (Tu codigo hace el build y se deploya a produccion automáticamente usando [Firebase Hosting](https://firebase.google.com/docs/hosting).)
-6. Revisa tu trabajo en [producción]({PRODUCTION_URL})
+6. Revisa tu trabajo en producción
 7. Celebra!
 
 ## ¿Cuándo sucede todo?
