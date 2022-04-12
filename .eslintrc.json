@@ -1,5 +1,10 @@
 {
-  "extends": ["react-app", "react-app/jest", "prettier"],
+  "extends": [
+    "plugin:jsx-a11y/recommended",
+    "react-app",
+    "react-app/jest",
+    "prettier"
+  ],
   "rules": {
     "react/jsx-filename-extension": "error"
   }
