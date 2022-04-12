@@ -5,8 +5,8 @@ import { VitePWA } from 'vite-plugin-pwa';
 const PWAConfig = {
   includeAssets: ['favicon.ico', 'robots.txt'],
   manifest: {
-    short_name: 'Shopping List',
-    name: 'TCL Shopping List',
+    short_name: 'Smart Shopping List',
+    name: 'TCL Smart Shopping List',
     description:
       "A smart shopping list that learns your purchase habits and makes suggestions, so you don't forget to buy what's important.",
     icons: [
