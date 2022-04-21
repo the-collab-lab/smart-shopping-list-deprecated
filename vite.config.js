@@ -1,4 +1,4 @@
-import { defineConfig, splitVendorChunkPlugin } from 'vite';
+import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa';
 
@@ -35,8 +35,26 @@ const PWAConfig = {
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  build: { outDir: './build' },
-  plugins: [VitePWA(PWAConfig), react(), splitVendorChunkPlugin()],
+  build: {
+    outDir: './build',
+    target: 'esnext',
+    rollupOptions: {
+      output: {
+        manualChunks: (id) => {
+          if (id.includes('node_modules')) {
+            if (id.includes('react')) {
+              return 'vendor__react';
+            }
+            if (id.includes('firebase')) {
+              return 'vendor__firebase';
+            }
+            return 'vendor';
+          }
+        },
+      },
+    },
+  },
+  plugins: [VitePWA(PWAConfig), react()],
   server: { open: true },
   test: {
     globals: true,
